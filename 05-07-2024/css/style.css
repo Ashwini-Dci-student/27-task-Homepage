@@ -59,17 +59,18 @@
     margin: 100px auto;
     border-radius: 90px;
     line-height: 100px;
-    padding-top: 30px;
+    padding-top: 20px;
     font-size: xx-large;
     border: 5px solid var(--Secondary);
     font-family: "Old Standard TT", serif;
     font-weight: 700;
     font-size: 5vw;
     
+    
   }
 #products {
   text-align: center;
-  padding-top: 100px;
+  padding-top: 30px;
   font-size: 1vw;
   color: var(--Secondary);
   
@@ -79,13 +80,14 @@
 .Block{
 background-color: var(--Primary);
     display: inline-block;
-    margin: 100px;
+    margin: 40px;
     text-align: center;
     background-color: var(--Primary);
     border-radius: 50px;
   font-size: 15px;
   cursor: pointer;
   }
+
 #showmore {
 background-color: #001542;
   width: fit-content;
@@ -101,7 +103,7 @@ text-shadow: 2px 2px 5px var(--Primary);
 }
 #about{
   text-align: center;
-  padding: 50px;
+  padding: 20px;
   margin-bottom: 10px;
   font-size: 20px;
   color: var(--Secondary);
@@ -110,13 +112,12 @@ text-shadow: 2px 2px 5px var(--Primary);
 display: inline-block;
 background-color: var(--Secondary);
 text-align: left;
-width: 25vw;
+width: 30vw;
 height: 20vh;
 color: var(--Background-light);
-padding: 40px;
-margin-top: 50px;
-margin-right: 40px;
-border-radius: 60px;
+padding: 10px;
+margin-top: 30px;
+border-radius: 40px;
 border: 1px solid var(--Primary);
 box-shadow:  6px 6px 12px 3px var(--Primary);
 }
@@ -125,7 +126,6 @@ box-shadow:  6px 6px 12px 3px var(--Primary);
 .h3 {
   color: var(--Primary);
   text-align: center;
-  margin-bottom: 20px;
   text-shadow:  2px 2px 9px var(--Primary);
   cursor: pointer;
   font-size: 30px;
